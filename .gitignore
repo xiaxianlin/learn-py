@@ -2,3 +2,10 @@ __pycache__
 *.log
 .DS_Store
 .env
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+googlebooks-eng-all-1gram-20120701-a

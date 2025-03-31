@@ -64,3 +64,4 @@ class Message(BaseModel):
 def create_tables():
     with database:
         database.create_tables([User, Relationship, Message])
+
